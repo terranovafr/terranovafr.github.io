@@ -8,6 +8,54 @@ redirect_from:
 ---
 
 {% include base_path %}
+<style>
+  .news-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+
+  .news-post {
+    display: flex;
+    width: 100%;
+    background-color: #f5f5f5;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+  }
+
+  .news-image {
+    flex: 0 0 150px;
+    margin-right: 10px;
+  }
+
+  .news-image img {
+    width: 100%;
+    border-radius: 5px;
+  }
+
+  .news-content {
+    flex: 1;
+  }
+
+  .news-title {
+    font-size: 18px;
+    margin: 0;
+  }
+
+  .read-more-button {
+    background-color: #0074d9;
+    color: #fff;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    margin-top: 10px;
+  }
+</style>
+
 <div class="news-container">
   {% for post in site.posts %}
     <div class="news-post">
