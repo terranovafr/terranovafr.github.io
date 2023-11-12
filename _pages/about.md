@@ -30,7 +30,10 @@ redirect_from:
 
 
 <!--Intro start-->
-- 🤖 I’m currently a PhD Student in **Reinforcement Learning for Cybersecurity** with **INRIA, Université de Lorraine**
+- 🤖 I’m currently a PhD Student in **Reinforcement Learning for Cybersecurity** with **INRIA, Université de Lorraine**.
+<p align="center">
+<a href="https://theses.fr/en/s371241" style="background-color: blue; color: white; padding: 10px 10px; text-align: center; text-decoration: none; display: inline-block; margin: 2px 2px; cursor: pointer;">Read about my thesis</a>
+</p>
 
 - 📚 I have a maaster's degree in AI and Data Engineering from the **University of Pisa**
 
@@ -40,13 +43,16 @@ redirect_from:
 
 - 💻 I have previously worked for the European Space Agency (**ESA**) and the Fermi National Accelerator Laboratory (**Fermilab**).
 
-- 🏫 I am currently studying Artificial Intelligence and Data Engineering at the **University of Pisa**. 
+- 🧑‍🎓 I have a Master's Degree in Artificial Intelligence and Data Engineering, and a Bachelor's Degree in Computer Engineering from the **University of Pisa**. 
 
 - 💬 Ask me about **RL, Deep Learning, ML, distributed systems**
 
 - 📫 Feel free to reach me out **terranovafr@icloud.com**
 
-- 📄 Know about my experiences reading my <a href="https://terranovafr.github.io/cv/" target="blank">CV</a>
+- 📄 Know more about my experiences...
+<p align="center">
+<a href="https://terranovafr.github.io/cv/" style="background-color: blue; color: white; padding: 10px 10px; text-align: center; text-decoration: none; display: inline-block; margin: 2px 2px; cursor: pointer;">Read my CV</a>
+</p>
 
 <!--Intro end-->
 
