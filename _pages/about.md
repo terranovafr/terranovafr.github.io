@@ -30,7 +30,7 @@ redirect_from:
 
 
 <!--Intro start-->
-- 🔭 I’m currently a PhD Student in **Reinforcement Learning for Cybersecurity** with **INRIA, Université de Lorraine**
+- 🤖 I’m currently a PhD Student in **Reinforcement Learning for Cybersecurity** with **INRIA, Université de Lorraine**
 
 - 📚 I have a maaster's degree in AI and Data Engineering from the **University of Pisa**
 

@@ -1,22 +1,23 @@
 ---
 layout: archive
 permalink: /year-archive/
-title: "Posts"
+title: "Website News"
 author_profile: true
 redirect_from:
   - /wordpress/website-news/
 ---
 
 {% include base_path %}
-{% for post in site.posts %}
-  <div class="news-item">
-    <div class="news-image">
-      <img src="{{ post.image_url }}" alt="{{ post.title }}">
+<div class="news-container">
+  {% for post in site.posts %}
+    <div class="news-post">
+      <div class="news-image">
+        <img src="{{ post.image_url }}" alt="{{ post.title }}">
+      </div>
+      <div class="news-content">
+        <h2 class="news-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        <a href="{{ post.url }}" class="read-more-button">Read more</a>
+      </div>
     </div>
-    <div class="news-content">
-      <h2 class="news-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      <p class="news-description">{{ post.description }}</p>
-      <a href="{{ post.url }}" class="news-button">Read More</a>
-    </div>
-  </div>
-{% endfor %}
+  {% endfor %}
+</div>
