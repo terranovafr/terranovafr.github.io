@@ -46,24 +46,34 @@ redirect_from:
 
 - 📫 Feel free to reach me out **terranovafr@icloud.com**
 
-- 📄 Know about my experiences reading my <a href="https://github.com/terranovaa/terranovaa/blob/main/CV.pdf" target="blank">CV</a>
+- 📄 Know about my experiences reading my <a href="https://terranovafr.github.io/cv/" target="blank">CV</a>
 
 <!--Intro end-->
 
 
 
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect with my profiles!🤝</h2></summary>
-  </ul>
+<div class="skills">
+    <h2>🚀 Technical Skills</h2>
+    <h3>Languages</h3>
+    <ul>
+        <li>Java, Python, Erlang, PHP, C, C++, R, Verilog, Matlab, JavaScript, CSS, HTML, SQL, Cypher Query Language, Assembly, UML, XML, JSON</li>
+    </ul>
+    <h3>AI/ML Libraries and Frameworks</h3>
+    <ul>
+        <li>Tensorflow, Keras, PyTorch, TFOD API, scikit-learn, Matplotlib, NLTK, Numpy, Pandas, Scipy, Gym</li>
+    </ul>
+    <h3>Database Technologies</h3>
+    <ul>
+        <li>MySQL, MongoDB, LevelDB, Neo4J, Redis</li>
+    </ul>
+    <h3>Cloud Technologies</h3>
+    <ul>
+        <li>OpenStack, Docker, Kubernetes, Hadoop, Spark, QEMU, Virsh</li>
+    </ul>
+    <h3>Networking</h3>
+    <ul>
+        <li>TCP/IP protocol suite, Ethernet, DHCP, DNS, ACL, NAT, VLAN and Trunking, Routing Protocols, Cloud, IoT, Network Security</li>
+    </ul>
 </div>
-
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/franco-terranova-1092b316a/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>  
-</p>
 
 ----------------------------------------------------------------------
