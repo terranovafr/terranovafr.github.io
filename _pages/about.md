@@ -35,15 +35,13 @@ redirect_from:
 <a href="https://theses.fr/en/s371241" style="background-color: blue; color: white; padding: 10px 10px; text-align: center; text-decoration: none; display: inline-block; margin: 2px 2px; cursor: pointer;">Read about my thesis</a>
 </p>
 
-- 📚 I have a maaster's degree in AI and Data Engineering from the **University of Pisa**
+- 🧑‍🎓 I have a Master's Degree in Artificial Intelligence and Data Engineering, and a Bachelor's Degree in Computer Engineering from the **University of Pisa**. 
+
+- 💻 I have previously worked for the European Space Agency (**ESA**) and the Fermi National Accelerator Laboratory (**Fermilab**).
 
 - 🌱 I’m currently learning and expanding my knowledge on **reinforcement learning**, **representation learning** and **deep learning**.
 
 - ☁️ I have also a keen interest in **IoT** and **space**. 
-
-- 💻 I have previously worked for the European Space Agency (**ESA**) and the Fermi National Accelerator Laboratory (**Fermilab**).
-
-- 🧑‍🎓 I have a Master's Degree in Artificial Intelligence and Data Engineering, and a Bachelor's Degree in Computer Engineering from the **University of Pisa**. 
 
 - 💬 Ask me about **RL, Deep Learning, ML, distributed systems**
 
