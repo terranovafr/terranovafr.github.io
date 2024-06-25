@@ -8,76 +8,67 @@ redirect_from:
   - /about.html
 ---
 
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Franco Terranova</h1></summary>
   </ul>
 </div>
-
-
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">AI/Cybersecurity Ph.D. Student from Italy🇮🇹 based in France🇫🇷</h2><br><h2 style="display: inline-block">Intelligent Automation Enthusiast</h2></summary>
-  </ul>
-</div>
-
-
 <!--Intro start-->
-- 🤖 I’m currently a PhD Student in **Reinforcement Learning for Cybersecurity** with **INRIA, Université de Lorraine**.
+
+I’m currently a Ph.D. Student in Computer Science focusing on **Reinforcement Learning for Cyber-Attack Paths Prediction** based at the _INRIA_ Center of the _Université de Lorraine_.
+
 <p align="center">
 <a href="https://theses.fr/en/s371241" style="background-color: blue; color: white; padding: 10px 10px; text-align: center; text-decoration: none; display: inline-block; margin: 2px 2px; cursor: pointer;">Read about my thesis</a>
 </p>
 
-- 🧑‍🎓 I have a Master's Degree in Artificial Intelligence and Data Engineering, and a Bachelor's Degree in Computer Engineering from the **University of Pisa**. 
 
-- 💻 I have previously worked for the European Space Agency (**ESA**) and the Fermi National Accelerator Laboratory (**Fermilab**).
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- 🌱 I’m currently learning and expanding my knowledge on **reinforcement learning**, **representation learning** and **deep learning**.
+<table>
+    <tr>
+        <th>Date</th>
+        <th>News</th>
+    </tr>
+    <tr>
+        <td>2024-06-15</td>
+        <td>Started visiting research period at the University of Waterloo - <a href="https://cs.uwaterloo.ca">David Cheriton School of Computer Science</a> under the supervision of <a href="https://rboutaba.cs.uwaterloo.ca">Raouf Bouataba</a>.</td>
+    </tr>
+    <tr>
+        <td>2024-06-07</td>
+        <td>Volunteering as a scrutineer for the European Elections for Italian citizens residing in Nancy, France.</td>
+    </tr>
+    <tr>
+        <td>2024-05-31</td>
+        <td>Participation to the <a href="https://new.ultrahack.org/hackathons/eudis-hackathon-2024-italy">European Union Defense Innovation Scheme Hackaton</a>, proposing a GNN-LMM Reaction Network. </td>
+    </tr>
+    <tr>
+        <td>2024-05-31</td>
+        <td>Participation to the NVIDIA Workshop on <a href="https://www.i-aida.org/course/nvidia-dli-generative-ai-with-diffusion-models/">Generative AI with Diffusion Models</a>.
+    </tr>
+    <tr>
+        <td>2024-05-09</td>
+        <td>Co-author of abstract presented to the <a href="https://www.asma.org/scientific-meetings/asma-annual-scientific-meeting">94th Aerospace Medical Association Annual Scientific Meeting</a>. </td>
+    </tr>
+     <tr>
+        <td>2024-03-19</td>
+        <td>Presentation of the Ph.D. project at the SuperviZ Meeting (PEPR France 2030) in INRIA Rennes.
+    </tr>
+    <tr>
+        <td>2024-02-17</td>
+        <td>Participation to the course <a href="https://www.i-aida.org/course/uncertainty-ml/">Uncertainty Estimation in Machine Learning</a> organized by the University of Groningen.
+    </tr>
+    <tr>
+        <td>2024-01-21</td>
+        <td>Participation to the <a href="https://www.sintef.no/projectweb/geilowinterschool/2024-winter-school/">Geilo Winter School 2024</a> on Graphs & Applications. 
+    </tr>
+</table>
 
-- ☁️ I have also a keen interest in **IoT** and **space**. 
 
-- 💬 Ask me about **RL, Deep Learning, ML, distributed systems**
 
-- 📫 Feel free to reach me out **terranovafr@icloud.com**
 
-- 📄 Know more about my experiences...
-<p align="center">
-<a href="https://terranovafr.github.io/cv/" style="background-color: blue; color: white; padding: 10px 10px; text-align: center; text-decoration: none; display: inline-block; margin: 2px 2px; cursor: pointer;">Read my CV</a>
-</p>
 
 <!--Intro end-->
-
-
-
-<div class="skills">
-    <h2>🚀 Technical Skills</h2>
-    <h3>Languages</h3>
-    <ul>
-        <li>Java, Python, Erlang, PHP, C, C++, R, Verilog, Matlab, JavaScript, CSS, HTML, SQL, Cypher Query Language, Assembly, UML, XML, JSON</li>
-    </ul>
-    <h3>AI/ML Libraries and Frameworks</h3>
-    <ul>
-        <li>Tensorflow, Keras, PyTorch, TFOD API, scikit-learn, Matplotlib, NLTK, Numpy, Pandas, Scipy, Gym</li>
-    </ul>
-    <h3>Database Technologies</h3>
-    <ul>
-        <li>MySQL, MongoDB, LevelDB, Neo4J, Redis</li>
-    </ul>
-    <h3>Cloud Technologies</h3>
-    <ul>
-        <li>OpenStack, Docker, Kubernetes, Hadoop, Spark, QEMU, Virsh</li>
-    </ul>
-    <h3>Networking</h3>
-    <ul>
-        <li>TCP/IP protocol suite, Ethernet, DHCP, DNS, ACL, NAT, VLAN and Trunking, Routing Protocols, Cloud, IoT, Network Security</li>
-    </ul>
-</div>
 
 ----------------------------------------------------------------------
