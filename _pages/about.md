@@ -7,6 +7,40 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<head>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            margin: 20px 0;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 16px;
+            text-align: left;
+        }
+        th {
+            background-color: #4CAF50;
+            color: white;
+            min-width: 150px;
+        }
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+        tr:hover {
+            background-color: #ddd;
+        }
+        th, td {
+            padding: 20px;
+        }
+    </style>
+</head>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -28,7 +62,7 @@ I’m currently a Ph.D. Student in Computer Science focusing on **Reinforcement 
 
 <table>
     <tr>
-        <th style="min-width: 150px;">Date</th>
+        <th style="min-width: 110px;">Date</th>
         <th>News</th>
     </tr>
     <tr>
