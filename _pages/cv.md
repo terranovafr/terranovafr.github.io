@@ -40,5 +40,5 @@ Work experience
   * Supervisor: Marco Mambelli
 
 <p align="center">
-<a href="https://github.com/terranovafr/terranovafr/blob/main/CV.pdf" style="background-color: #007BFF; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; margin: 10px 5px; cursor: pointer;">Full Version</a>
+<a href="../files/CV.pdf" style="background-color: #007BFF; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; margin: 10px 5px; cursor: pointer;">Full Version</a>
 </p>
