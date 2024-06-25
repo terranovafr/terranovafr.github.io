@@ -28,7 +28,7 @@ I’m currently a Ph.D. Student in Computer Science focusing on **Reinforcement 
 
 <table>
     <tr>
-        <th>Date</th>
+        <th style="min-width: 150px;">Date</th>
         <th>News</th>
     </tr>
     <tr>
@@ -45,7 +45,7 @@ I’m currently a Ph.D. Student in Computer Science focusing on **Reinforcement 
     </tr>
     <tr>
         <td>2024-05-31</td>
-        <td>Participation to the NVIDIA Workshop on <a href="https://www.i-aida.org/course/nvidia-dli-generative-ai-with-diffusion-models/">Generative AI with Diffusion Models</a>.
+        <td>Participation to the NVIDIA Workshop on <a href="https://www.i-aida.org/course/nvidia-dli-generative-ai-with-diffusion-models/">Generative AI with Diffusion Models</a>.</td>
     </tr>
     <tr>
         <td>2024-05-09</td>
@@ -53,15 +53,15 @@ I’m currently a Ph.D. Student in Computer Science focusing on **Reinforcement 
     </tr>
      <tr>
         <td>2024-03-19</td>
-        <td>Presentation of the Ph.D. project at the SuperviZ Meeting (PEPR France 2030) in INRIA Rennes.
+        <td>Presentation of the Ph.D. project at the SuperviZ Meeting (PEPR France 2030) in INRIA Rennes.</td>
     </tr>
     <tr>
         <td>2024-02-17</td>
-        <td>Participation to the course <a href="https://www.i-aida.org/course/uncertainty-ml/">Uncertainty Estimation in Machine Learning</a> organized by the University of Groningen.
+        <td>Participation to the course <a href="https://www.i-aida.org/course/uncertainty-ml/">Uncertainty Estimation in Machine Learning</a> organized by the University of Groningen.</td>
     </tr>
     <tr>
         <td>2024-01-21</td>
-        <td>Participation to the <a href="https://www.sintef.no/projectweb/geilowinterschool/2024-winter-school/">Geilo Winter School 2024</a> on Graphs & Applications. 
+        <td>Participation to the <a href="https://www.sintef.no/projectweb/geilowinterschool/2024-winter-school/">Geilo Winter School 2024</a> on Graphs & Applications. </td>
     </tr>
 </table>
 
@@ -70,5 +70,3 @@ I’m currently a Ph.D. Student in Computer Science focusing on **Reinforcement 
 
 
 <!--Intro end-->
-
-----------------------------------------------------------------------
