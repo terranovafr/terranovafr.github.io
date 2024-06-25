@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
 * Ph.D. Student in Computer Science, Université de Lorraine/INRIA, 2026 (expected)
@@ -40,4 +38,7 @@ Work experience
   * Project: GlideinWMS, a workload management system for CMS and other experiments
   * Topics: Distributed Systems
   * Supervisor: Marco Mambelli
-  
+
+<p align="center">
+<a href="https://github.com/terranovafr/terranovafr/blob/main/CV.pdf" style="background-color: #007BFF; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; margin: 10px 5px; cursor: pointer;">Full Version</a>
+</p>

@@ -20,6 +20,3 @@ Honors & Awards
 * ISSNAF Scholarship for Master Thesis Research in North America, Italian Scientists and Scholars in North America Foundation (ISSNAF), Dec 2022.
 * Selected by AlmaLaurea as part of the best 20 high-potential current and prospective graduates in STEM disciplines in Italy for the High-flyers STEM Day.
 
-<p align="center">
-<a href="https://github.com/terranovafr/terranovafr/blob/main/CV.pdf" style="background-color: blue; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; margin: 10px 5px; cursor: pointer;">Full Version</a>
-</p>
