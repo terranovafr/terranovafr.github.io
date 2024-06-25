@@ -24,9 +24,10 @@ redirect_from:
             border: 1px solid #ddd;
             padding: 16px;
             text-align: left;
+            font-size: 16px; /* Increased font size */
         }
         th {
-            background-color: #4CAF50;
+            background-color: #007BFF; /* Blue color */
             color: white;
             min-width: 150px;
         }
