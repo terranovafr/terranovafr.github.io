@@ -121,7 +121,7 @@ I am currently a Ph.D. Student in Computer Science focusing on **Reinforcement L
     </tr>
     <tr>
         <td>2023-10-11</td>
-        <td>Enrolled as PhD Student at the Université de Lorraine.</td>
+        <td>Enrolled as PhD Student in the <a href="https://team.inria.fr/resist/">RESIST Team</a> based at the Université de Lorraine and INRIA, under the <a href="https://superviz.inria.fr">France 2030 PEPR SuperviZ</a> Project.</td>
     </tr>
     <tr>
         <td>2023-10-10</td>
@@ -129,7 +129,7 @@ I am currently a Ph.D. Student in Computer Science focusing on **Reinforcement L
     </tr>
     <tr>
         <td>2023-09-22</td>
-        <td>Completed Master's Degree in AI and Data Engineering at the University of Pisa.</td>
+        <td>Completed <a href="https://computer.ing.unipi.it/aide-lm">Master's Degree in Artificial Intelligence and Data Engineering</a> at the University of Pisa.</td>
     </tr>
     <tr>
         <td>2023-07-31</td>
@@ -179,7 +179,7 @@ I am currently a Ph.D. Student in Computer Science focusing on **Reinforcement L
     </tr>
     <tr>
         <td>2022-07-25</td>
-        <td>Participation to the Italian Summer School at the <a href="https://www.fnal.gov">Fermi National Accelerator Laboratory</a>.</td>
+        <td>Participation to the <a href="https://internships.fnal.gov/italian-student-programs/">Italian Summer School</a> at the Fermi National Accelerator Laboratory.</td>
     </tr>
 </table>
 
