@@ -10,8 +10,8 @@ redirect_from:
 Education
 ======
 * Ph.D. Student in Computer Science, Université de Lorraine/INRIA, 2026 (expected)
-* M.S. in Artificial Intelligence and Data Engineering, University of Pisa, 2023, (110/110) cum laude
-* B.S. in Computer Engineering, University of Pisa, 2021, (110/110) cum laude
+* M.D. in Artificial Intelligence and Data Engineering, University of Pisa, 2023, (110/110) cum laude
+* B.D. in Computer Engineering, University of Pisa, 2021, (110/110) cum laude
 
 Work experience
 ======
