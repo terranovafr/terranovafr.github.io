@@ -11,6 +11,11 @@ location: "Dublin, Ireland"
 
 
 
+
+
+
+
+
 ## Agenda
 
 This tutorial hosted at [EASSS 2024](https://euramas.github.io/easss2024/), will be composed of a theoretical lesson on Reinforcement Learning (RL), followed by a laboratory mainly focusing on RL environments setup.
