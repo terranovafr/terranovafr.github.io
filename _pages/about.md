@@ -63,7 +63,7 @@ I am currently a Ph.D. Student in Computer Science focusing on **Reinforcement L
 
 <table>
     <tr>
-        <th style="min-width: 150px;">Date</th>
+        <th style="min-width: 140px;">Date</th>
         <th>News</th>
     </tr>
     <tr>
@@ -112,7 +112,7 @@ I am currently a Ph.D. Student in Computer Science focusing on **Reinforcement L
 
 <table>
     <tr>
-        <th style="min-width: 150px;">Date</th>
+        <th style="min-width: 140px;">Date</th>
         <th>News</th>
     </tr>
     <tr>
@@ -178,7 +178,7 @@ I am currently a Ph.D. Student in Computer Science focusing on **Reinforcement L
 
 <table>
     <tr>
-        <th style="min-width: 150px;">Date</th>
+        <th style="min-width: 140px;">Date</th>
         <th>News</th>
     </tr>
     <tr>
