@@ -67,8 +67,16 @@ I am currently a Ph.D. Student in Computer Science focusing on **Reinforcement L
         <th>News</th>
     </tr>
     <tr>
-        <td>2024-06-15</td>
-        <td>Started visiting research period at the University of Waterloo - <a href="https://cs.uwaterloo.ca">David Cheriton School of Computer Science</a> under the supervision of <a href="https://rboutaba.cs.uwaterloo.ca">Raouf Bouataba</a>.</td>
+        <td>2024-08-20</td>
+        <td>Holding Tutorial on Deep Reinforcement Learning and Environment Setup at the <a href="https://euramas.github.io/easss2024/">European Agent Systems Summer School (EASSS) 2024</a>.</td>
+    </tr>
+    <tr>
+        <td>2024-07-22</td>
+        <td>Paper <a href="https://hal.science/hal-04662428">"Leveraging Deep Reinforcement Learning for Cyber-Attack Paths Prediction: Formulation, Generalization, and Evaluation"</a> accepted at the <a href="https://raid2024.github.io">RAID Conference 2024</a>.</td>
+    </tr>
+    <tr>
+        <td>2024-06-15<div align="center"><-></div>2024-07-15</td>
+        <td>Visiting research period at the University of Waterloo - <a href="https://cs.uwaterloo.ca">David Cheriton School of Computer Science</a> under the supervision of <a href="https://rboutaba.cs.uwaterloo.ca">Raouf Bouataba</a>.</td>
     </tr>
     <tr>
         <td>2024-06-07</td>
