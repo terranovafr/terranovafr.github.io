@@ -8,14 +8,6 @@ date: 2024-08-20
 location: "Dublin, Ireland"
 ---
 
-
-
-
-
-
-
-
-
 ## Agenda
 
 This tutorial hosted at [EASSS 2024](https://euramas.github.io/easss2024/), will be composed of a theoretical lesson on Reinforcement Learning (RL), followed by a laboratory mainly focusing on RL environments setup.
@@ -23,7 +15,7 @@ This tutorial hosted at [EASSS 2024](https://euramas.github.io/easss2024/), will
 ### Theoretical Session (10:00 - 11:30)
 
 #### Description
-The turotial will begin by covering fundamental RL concepts such as agents, environments, and learning paradigms. We will then discuss why deep learning is increasingly employed to solve complex, high-dimensional decision-making challenges.
+The tutorial will begin by covering fundamental RL concepts such as agents, environments, and learning paradigms. We will then discuss why deep learning is increasingly employed to solve complex, high-dimensional decision-making challenges.
 
 📑 **[Theoretical Session Slides](link_to_theoretical_slides)**
 
