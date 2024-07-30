@@ -1,22 +1,24 @@
 ---
-title: "EASSS Tutorial: Deep Reinforcement Learning - Foundations and Practical Environment Setup for Real-World Applications"
+title: "Tutorial: Deep Reinforcement Learning - Foundations and Practical Environment Setup for Real-World Applications"
 collection: teaching
-type: "EASSS Course"
+type: "European Agent Systems Summer School (EASSS) 2024"
 permalink: /teaching/2024-EASSS-Course
 venue: "School of Computer Science at University College Dublin"
 date: 2024-08-20
 location: "Dublin, Ireland"
 ---
 
-# EASSS Tutorial: Deep Reinforcement Learning - Foundations and Practical Environment Setup for Real-World Applications
-## [European Agent Systems Summer School (EASSS) 2024](https://euramas.github.io/easss2024/)
+
+
 
 ## Agenda
+
+This tutorial hosted at [EASSS 2024](https://euramas.github.io/easss2024/), will be composed of a theoretical lesson on Reinforcement Learning (RL), followed by a laboratory mainly focusing on RL environments setup.
 
 ### Theoretical Session (10:00 - 11:30)
 
 #### Description
-The tutorial will begin by covering fundamental RL concepts such as agents, environments, and learning paradigms. We will then discuss why deep learning is increasingly employed to solve complex, high-dimensional decision-making challenges.
+The turotial will begin by covering fundamental RL concepts such as agents, environments, and learning paradigms. We will then discuss why deep learning is increasingly employed to solve complex, high-dimensional decision-making challenges.
 
 📑 **[Theoretical Session Slides](link_to_theoretical_slides)**
 
@@ -33,12 +35,12 @@ The hands-on component will guide participants through setting up a training env
 
 📄 **[Requirements File](terranovafr.github.io)**
 
-#### Environment Setup
+### Environment Setup
 To create a conda environment and install the necessary libraries, use the following commands:
 
 ```bash
-conda create --name rl_tutorial python=3.8
-conda activate rl_tutorial
+conda create --name rl_easss python=3.8
+conda activate rl_easss
 pip install -r requirements.txt
 ```
 
