@@ -136,12 +136,16 @@ I am currently a Ph.D. Student in Computer Science focusing on **Reinforcement L
         <td>Talk "Self-driving Telescope Schedules: A Framework for Training RL Agents based on Telescope Data" at the <a href="https://indico.cern.ch/event/1252095/contributions/5593573/attachments/2731405/4748447/Presentation.pdf">PyHEP 2023</a> Workshop. </td>
     </tr>
     <tr>
+        <td>2023-10-03</td>
+        <td>Both co-authored papers <a href="https://iafastro.directory/iac/paper/id/79035/summary/">Federated learning for space medicine research and its application for Spaceflight Associated Neuro-ocular Syndrome (SANS)"</a> and <a href="https://iafastro.directory/iac/paper/id/79032/summary/">"An artificial intelligence method for autonomous monitoring of the retina for medical applications in space and extreme environments"</a> accepted at the <a href="https://www.iafastro.org/events/iac/iac-2023/">74th International Astronautical Congress 2023</a>.</td>
+    </tr>
+    <tr>
         <td>2023-09-22</td>
         <td>Completed <a href="https://computer.ing.unipi.it/aide-lm">Master's Degree in Artificial Intelligence and Data Engineering</a> at the University of Pisa.</td>
     </tr>
     <tr>
         <td>2023-07-31</td>
-        <td>Co-author of abstract "Monitoring retina changes associated with SANS aboard ISS as preparation for countermeasure support and deep space missions" presented to the <a href="https://issconference.org/past_conference/2023/">12th Annual International Space Station Research and Development Conference</a>.</td>
+        <td>Co-author of Technology Development and Demonstration "Monitoring retina changes associated with SANS aboard ISS as preparation for countermeasure support and deep space missions" presented to the <a href="https://issconference.org/past_conference/2023/">12th Annual International Space Station Research and Development Conference</a>.</td>
     </tr>
     <tr>
         <td>2023-07-28</td>

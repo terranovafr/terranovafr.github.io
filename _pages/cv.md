@@ -17,7 +17,7 @@ Work experience
 ======
 * June 2024 - July 2024: **Visiting Researcher** 
   * University of Waterloo - David Cheriton School of Computer Science 
-  * Project: Deep Reinforcement Learning for Cyber-Attack Paths Prediction
+  * Project: Multi-Agent Reinforcement Learning for Security Analysis of 5G Networks
   * Topics: 5G, Cybersecurity, Reinforcement Learning, Deep Learning
   * Supervisors: Isabelle Chrisment, Abdelkader Lahmadi, Raouf Boutaba
 
