@@ -17,18 +17,18 @@ This tutorial hosted at [EASSS 2024](https://euramas.github.io/easss2024/), will
 ### Description
 The tutorial will begin by covering fundamental RL concepts such as agents, environments, and learning paradigms. We will then discuss why deep learning is increasingly employed to solve complex, high-dimensional decision-making challenges.
 
-📑 **[Theoretical Session Slides](files/EASSS_2024_Theory.pdf)**
+📑 **[Theoretical Session Slides](../files/EASSS_2024_Theory.pdf)**
 
 ## Practical Session (12:00 - 13:30)
 
 ### Description
 The hands-on component will guide participants through setting up a training environment tailored for RL agents. This part of the tutorial will include a practical introduction to OpenAI’s Gym library and references to prominent libraries that implement deep RL algorithms.
 
-🛠️ **[Practical Session Slides](files/EASSS_2024_Practical.pdf)**
+🛠️ **[Practical Session Slides](../files/EASSS_2024_Practical.pdf)**
 
 ##  Additional Resources
 
-📦 **[Tutorial Code](files/easss-tutorial-main.zip)**
+📦 **[Tutorial Code](../files/easss-tutorial-main.zip)**
 
 ### Environment Setup
 To create a conda environment and install the necessary libraries, use the following commands:
@@ -36,6 +36,12 @@ To create a conda environment and install the necessary libraries, use the follo
 ```bash
 conda env create -f environment.yml
 conda activate rleasss
+```
+
+Or use the internal _requirements.txt_ file to set up pip.
+
+```bash
+pip install -r requirements.txt
 ```
 
 I look forward to a productive and insightful tutorial. Please ensure you have the necessary environment set up before the practical session begins.
