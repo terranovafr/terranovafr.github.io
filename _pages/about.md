@@ -137,7 +137,7 @@ I am currently a Ph.D. Student in Computer Science focusing on **Reinforcement L
     </tr>
     <tr>
         <td>2023-10-03</td>
-        <td>Both co-authored papers <a href="https://iafastro.directory/iac/paper/id/79035/summary/">Federated learning for space medicine research and its application for Spaceflight Associated Neuro-ocular Syndrome (SANS)"</a> and <a href="https://iafastro.directory/iac/paper/id/79032/summary/">"An artificial intelligence method for autonomous monitoring of the retina for medical applications in space and extreme environments"</a> accepted at the <a href="https://www.iafastro.org/events/iac/iac-2023/">74th International Astronautical Congress 2023</a>.</td>
+        <td>Both co-authored papers <a href="https://iafastro.directory/iac/paper/id/79035/summary/">"Federated learning for space medicine research and its application for Spaceflight Associated Neuro-ocular Syndrome (SANS)"</a> and <a href="https://iafastro.directory/iac/paper/id/79032/summary/">"An artificial intelligence method for autonomous monitoring of the retina for medical applications in space and extreme environments"</a> accepted at the <a href="https://www.iafastro.org/events/iac/iac-2023/">74th International Astronautical Congress 2023</a>.</td>
     </tr>
     <tr>
         <td>2023-09-22</td>
