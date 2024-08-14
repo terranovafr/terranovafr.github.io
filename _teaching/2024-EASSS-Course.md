@@ -26,8 +26,6 @@ The hands-on component will guide participants through setting up a training env
 
 🛠️ **[Practical Session Slides](../files/EASSS_2024_Practical.pdf)**
 
-##  Additional Resources
-
 📦 **[Tutorial Code](../files/easss-tutorial-main.zip)**
 
 ### Environment Setup
