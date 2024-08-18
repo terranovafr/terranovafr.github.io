@@ -36,8 +36,14 @@ conda env create -f environment.yml
 conda activate rleasss
 ```
 
-Or use the internal _requirements.txt_ file to set up pip.
+Or use the internal _requirements.txt_ file to set up an environment using pip (e.g. with venv).
 
+```bash
+python -m venv myenv
+```
+```bash
+source myenv/bin/activate
+```
 ```bash
 pip install -r requirements.txt
 ```
