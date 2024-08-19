@@ -26,26 +26,42 @@ The hands-on component will guide participants through setting up a training env
 
 🛠️ **[Practical Session Slides](../files/EASSS_2024_Practical.pdf)**
 
-📦 **[Tutorial Code](../files/easss-tutorial-main.zip)**
+📦 **[Tutorial Code](../files/easss-RL-tutorial-main.zip)**
 
 ### Environment Setup
 To create a conda environment and install the necessary libraries, use the following commands:
+
+```bash
+conda env create --name rleasss
+conda activate rleasss
+pip install stable-baselines3 tensorboard
+```
+
+Or use the requirements.txt file:
+
+```bash
+conda env create --name rleasss
+conda activate rleasss
+pip install -r requirements.txt
+```
+
+Or use the attached environment.yml file:
 
 ```bash
 conda env create -f environment.yml
 conda activate rleasss
 ```
 
-Or use the internal _requirements.txt_ file to set up an environment using pip (e.g. with venv).
-
+If you use venv, do the same steps and use the requirements.txt file or the manual installation:
 ```bash
 python -m venv myenv
-```
-```bash
 source myenv/bin/activate
-```
-```bash
 pip install -r requirements.txt
+```
+
+However, with MacOS some issues may arise based on the numpy version. In that case downgrade numpy to a version lower than 2.0:
+```bash
+pip install "numpy<2"
 ```
 
 I look forward to a productive and insightful tutorial. Please ensure you have the necessary environment set up before the practical session begins.
