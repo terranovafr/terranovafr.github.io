@@ -22,7 +22,7 @@ The tutorial will begin by covering fundamental RL concepts such as agents, envi
 ## Practical Session (12:00 - 13:30)
 
 ### Description
-The hands-on component will guide participants through setting up a training environment tailored for RL agents. This part of the tutorial will include a practical introduction to OpenAI’s Gym library and references to prominent libraries that implement deep RL algorithms.
+The hands-on component will guide participants through setting up a training environment tailored for RL agents. This part of the tutorial will include a practical introduction with a grid world example to the OpenAI’s Gymnasium library and references the StableBaselines3 library that implement deep RL algorithms.
 
 🛠️ **[Practical Session Slides](../files/EASSS_2024_Practical.pdf)**
 
