@@ -44,9 +44,11 @@ redirect_from:
 </head>
 
 <!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Franco Terranova</h1></summary>
+<div id="user-content-toc" style="text-align: center;">
+  <ul style="list-style: none; padding: 0;">
+    <li>
+      <h1 style="display: inline-block;">Hi 👋, I'm Franco Terranova</h1>
+    </li>
   </ul>
 </div>
 <!--Intro start-->
@@ -67,12 +69,16 @@ I am currently a Ph.D. Student in Computer Science focusing on **Reinforcement L
         <th>News</th>
     </tr>
     <tr>
-        <td>2024-08-20</td>
-        <td>Holding Tutorial on Deep Reinforcement Learning and Environment Setup at the <a href="https://euramas.github.io/easss2024/">European Agent Systems Summer School (EASSS) 2024</a>.</td>
+        <td>2024-09-30</td>
+        <td>Presentation of the paper <a href="https://hal.science/hal-04662428">"Leveraging Deep Reinforcement Learning for Cyber-Attack Paths Prediction: Formulation, Generalization, and Evaluation"</a> accepted at the <a href="https://raid2024.github.io">RAID Conference 2024</a>.</td>
     </tr>
     <tr>
-        <td>2024-07-22</td>
-        <td>Paper <a href="https://hal.science/hal-04662428">"Leveraging Deep Reinforcement Learning for Cyber-Attack Paths Prediction: Formulation, Generalization, and Evaluation"</a> accepted at the <a href="https://raid2024.github.io">RAID Conference 2024</a>.</td>
+        <td>2024-09-01</td>
+        <td>Reviewing manuscripts for the <a href="https://www.sciencedirect.com/journal/computational-and-structural-biotechnology-journal">Computational and Structural Biotechnology Journal</a>.</td>
+    </tr>
+    <tr>
+        <td>2024-08-20</td>
+        <td>Holding Tutorial on Deep Reinforcement Learning and Environment Setup at the <a href="https://euramas.github.io/easss2024/">European Agent Systems Summer School (EASSS) 2024</a>.</td>
     </tr>
     <tr>
         <td>2024-06-15<div align="center"><-></div>2024-07-15</td>
