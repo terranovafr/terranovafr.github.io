@@ -70,7 +70,7 @@ I am currently a Ph.D. Student in Computer Science focusing on **Reinforcement L
     </tr>
     <tr>
         <td>2024-09-30</td>
-        <td>Presentation of the paper <a href="https://hal.science/hal-04662428">"Leveraging Deep Reinforcement Learning for Cyber-Attack Paths Prediction: Formulation, Generalization, and Evaluation"</a> accepted at the <a href="https://raid2024.github.io">RAID Conference 2024</a>.</td>
+        <td>Presentation of the paper <a href="https://hal.science/hal-04662428">"Leveraging Deep Reinforcement Learning for Cyber-Attack Paths Prediction: Formulation, Generalization, and Evaluation"</a> at the <a href="https://raid2024.github.io">RAID Conference 2024</a>.</td>
     </tr>
     <tr>
         <td>2024-09-01</td>
