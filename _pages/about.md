@@ -69,6 +69,13 @@ I am currently a Ph.D. Student in Computer Science focusing on **Reinforcement L
         <th>News</th>
     </tr>
     <tr>
+        <td>2024-11-06</td>
+        <td>Holding Tutorial <a href="https://gitlab.inria.fr/fterrano/deeploria">Reinforcement and Deep Reinforcement Learning: Theory and Hands-On Lab for Setting Up a Training Environment</a> within the DeepLorIA network. </td>
+    <tr>
+        <td>2024-10-14</td>
+        <td>Launched the network <a href="https://gitlab.inria.fr/fterrano/deeploria">DeepLorIA</a> for AI knowledge sharing and collaboration within the <a href="https://www.loria.fr">LORIA</a> laboratory.</td>
+    </tr>
+    <tr>
         <td>2024-09-30</td>
         <td>Presentation of the paper <a href="https://hal.science/hal-04662428">"Leveraging Deep Reinforcement Learning for Cyber-Attack Paths Prediction: Formulation, Generalization, and Evaluation"</a> at the <a href="https://raid2024.github.io">RAID Conference 2024</a>.</td>
     </tr>
