@@ -2,7 +2,6 @@
 title: "Tutorial: Deep Reinforcement Learning - Foundations and Practical Environment Setup for Real-World Applications"
 collection: teaching
 type: "European Agent Systems Summer School (EASSS) 2024"
-permalink: /teaching/2024-EASSS-Course
 venue: "School of Computer Science at University College Dublin"
 date: 2024-08-20
 location: "Dublin, Ireland"

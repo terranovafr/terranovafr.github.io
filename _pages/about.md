@@ -69,6 +69,10 @@ I am currently a Ph.D. Student in Computer Science focusing on **Reinforcement L
         <th>News</th>
     </tr>
     <tr>
+        <td>2024-11-25<div align="center"><-></div>2024-12-06</td>
+        <td>Return as visiting researcher at the University of Waterloo - <a href="https://cs.uwaterloo.ca">David Cheriton School of Computer Science</a>.</td>
+    </tr>
+    <tr>
         <td>2024-11-06</td>
         <td>Holding Tutorial <a href="https://gitlab.inria.fr/fterrano/deeploria">Reinforcement and Deep Reinforcement Learning: Theory and Hands-On Lab for Setting Up a Training Environment</a> within the DeepLorIA network. </td>
     </tr>    
