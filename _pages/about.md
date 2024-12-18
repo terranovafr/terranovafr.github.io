@@ -56,7 +56,7 @@ redirect_from:
 I am currently a Ph.D. Student in Computer Science focusing on **Reinforcement Learning for Cyber-Attack Paths Prediction** based at the _INRIA_ Center of the _Université de Lorraine_.
 
 <p align="center">
-<a href="https://theses.fr/en/s371241" style="background-color: #007BFF; color: white; padding: 10px 10px; text-align: center; text-decoration: none; display: inline-block; margin: 2px 2px; cursor: pointer;">Read about my thesis</a>
+<a href="https://theses.fr/s371241" style="background-color: #007BFF; color: white; padding: 10px 10px; text-align: center; text-decoration: none; display: inline-block; margin: 2px 2px; cursor: pointer;">Read about my thesis</a>
 </p>
 
 
