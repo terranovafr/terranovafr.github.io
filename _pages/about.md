@@ -69,16 +69,16 @@ I am currently a Ph.D. Candidate in Computer Science focusing on **Reinforcement
         <th>News</th>
     </tr>
     <tr>
-        <td>2025-01-13<div align="center"><-></div>2024-12-06</td>
+        <td>2025-01-13</td>
         <td>Commitee member for the "Session thèse" contributions of <a href="https://ressi2025.sciencesconf.org/?lang=fr">RESSI</a> (Rendez-Vous de la Recherche et de l'Enseignement de la Sécurité des Systèmes d'Information) 2025.</td>
     </tr>
     <tr>
-        <td>2025-01-06<div align="center"><-></div>2024-12-06</td>
+        <td>2025-01-06</td>
         <td>Supervising M1 SC&TAL students for the project "Automated Mapping of Vulnerabilities to MITRE ATT&CK Techniques Using Natural Language Processing" at <a href="https://idmc.univ-lorraine.fr">IDMC</a>.</td>
     </tr>
      <tr>
-        <td>2025-01-06<div align="center"><-></div>2024-12-06</td>
-        <td>Teaching Assistant for the <a href="https://idmc.univ-lorraine.fr">IDMC</a> courses: "Symbolic AI" @ M1Sc, "Data Science" @ M1TAL, and "Méthodes et outils pour le comportement humain" @ M2Sc.</td>
+        <td>2025-01-06</td>
+        <td>Teaching Assistant for the <a href="https://idmc.univ-lorraine.fr">IDMC</a> courses: "Symbolic AI" @ M1Sc/TAL, "Data Science" @ M1TAL, and "Méthodes et outils pour le comportement humain" @ M2Sc.</td>
     </tr>
 </table>
 
@@ -90,7 +90,7 @@ I am currently a Ph.D. Candidate in Computer Science focusing on **Reinforcement
         <th>News</th>
     </tr>
      <tr>
-        <td>2024-12-19<div align="center"><-></div>2024-12-06</td>
+        <td>2024-12-19</td>
         <td>Reviewing manuscripts for the <a href="https://sites.google.com/view/marw-ai-agents">AAAI MARW</a>: Multi-Agent AI in the Real World Workshop.</td>
     </tr>
     <tr>
