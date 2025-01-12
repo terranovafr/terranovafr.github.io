@@ -1,6 +1,6 @@
 ---
 title: "Tutorial: Reinforcement and Deep Reinforcement Learning: Theory and Hands-On Lab for Setting Up a Training Environment"
-collection: teaching
+collection: tutorials
 type: "DeepLorIA Network"
 venue: "LORIA"
 date: 2024-11-06

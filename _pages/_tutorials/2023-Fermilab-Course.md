@@ -1,6 +1,6 @@
 ---
 title: "Sprint Lesson: Reinforcement Learning"
-collection: teaching
+collection: tutorials
 type: "Fermilab Lab-wide AI Meeting"
 venue: "Fermi National Accelerator Laboratory"
 date: 2023-07-28

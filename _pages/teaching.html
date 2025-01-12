@@ -1,12 +1,20 @@
 ---
 layout: archive
-title: "Teaching & Tutorials"
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
 
 {% include base_path %}
 
+<p align="center"><h1>Teaching</h1></p>
+
 {% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<p align="center"><h1>Tutorials</h1></p>
+
+{% for post in site.tutorials reversed %}
   {% include archive-single.html %}
 {% endfor %}
