@@ -1,5 +1,5 @@
 ---
-title: "Tutorial: Reinforcement and Deep Reinforcement Learning: Theory and Hands-On Lab for Setting Up a Training Environment"
+title: "Reinforcement and Deep Reinforcement Learning: Theory and Hands-On Lab for Setting Up a Training Environment"
 collection: tutorials
 type: "DeepLorIA Network"
 venue: "LORIA"

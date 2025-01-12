@@ -1,5 +1,5 @@
 ---
-title: "Sprint Lesson: Reinforcement Learning"
+title: "Sprint Lesson on Reinforcement Learning"
 collection: tutorials
 type: "Fermilab Lab-wide AI Meeting"
 venue: "Fermi National Accelerator Laboratory"
