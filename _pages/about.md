@@ -127,7 +127,7 @@ I am currently a Ph.D. Candidate in Computer Science focusing on **Reinforcement
     </tr>
     <tr>
         <td>2024-05-31</td>
-        <td>Participation to the <a href="https://new.ultrahack.org/hackathons/eudis-hackathon-2024-italy">European Union Defense Innovation Scheme Hackaton</a>, proposing a GNN-LMM Reaction Network. </td>
+        <td>Participation to the <a href="https://new.ultrahack.org/hackathons/eudis-hackathon-2024-italy">European Union Defense Innovation Scheme Hackaton</a>, proposing a GNN-LM Reaction Network. </td>
     </tr>
     <tr>
         <td>2024-05-31</td>

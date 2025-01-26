@@ -19,7 +19,7 @@ Work experience
   * University of Waterloo - David Cheriton School of Computer Science 
   * Project: Multi-Agent Reinforcement Learning for Security Analysis of 5G Networks
   * Topics: 5G, Cybersecurity, Reinforcement Learning, Deep Learning
-  * Supervisors: Isabelle Chrisment, Abdelkader Lahmadi, Raouf Boutaba
+  * Visiting Supervisors: Noura Limam, Raouf Boutaba
 
 * May 2023 - August 2023: **Master Degree Thesis Researcher**
   * Fermi National Accelerator Laboratory / University of Chicago

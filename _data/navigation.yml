@@ -17,6 +17,10 @@ main:
     
   - title: "CV"
     url: /cv/
-    
+
+  - title: "DeepLorIA"
+    url: https://deeploria.netlify.app
+
+
   #- title: "Guide"
   #  url: /markdown/
