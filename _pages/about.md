@@ -69,8 +69,12 @@ I am currently a Ph.D. Candidate in Computer Science focusing on **Reinforcement
         <th>News</th>
     </tr>
     <tr>
+        <td>2025-02-15</td>
+        <td>Reviewing manuscripts for the 2025 <a href="https://2025.ijcnn.org">International Joint Conference on Neural Networks</a>.</td>
+    </tr>
+    <tr>
         <td>2025-01-13</td>
-        <td>Commitee member for the "Session thèse" contributions of <a href="https://ressi2025.sciencesconf.org/?lang=fr">RESSI</a> (Rendez-Vous de la Recherche et de l'Enseignement de la Sécurité des Systèmes d'Information) 2025.</td>
+        <td>Commitee member and reviewer for the "Session thèse" contributions of <a href="https://ressi2025.sciencesconf.org/?lang=fr">RESSI</a> (Rendez-Vous de la Recherche et de l'Enseignement de la Sécurité des Systèmes d'Information) 2025.</td>
     </tr>
     <tr>
         <td>2025-01-06</td>
