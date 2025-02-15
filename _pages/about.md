@@ -70,7 +70,7 @@ I am currently a Ph.D. Candidate in Computer Science focusing on **Reinforcement
     </tr>
     <tr>
         <td>2025-02-15</td>
-        <td>Reviewing manuscripts for the 2025 <a href="https://2025.ijcnn.org">International Joint Conference on Neural Networks</a>.</td>
+        <td>Reviewing manuscripts for the International Joint Conference on Neural Networks (<a href="https://2025.ijcnn.org">IJCNN</a>) 2025.</td>
     </tr>
     <tr>
         <td>2025-01-13</td>
