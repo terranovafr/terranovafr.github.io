@@ -15,7 +15,7 @@ Education
 
 Work experience
 ======
-* June 2024 - July 2024: **Visiting Researcher** 
+* June 2024 - July 2024 / November 2024 - December 2024: **Visiting Researcher** 
   * University of Waterloo - David Cheriton School of Computer Science 
   * Project: Multi-Agent Reinforcement Learning for Security Analysis of 5G Networks
   * Topics: 5G, Cybersecurity, Reinforcement Learning, Deep Learning
