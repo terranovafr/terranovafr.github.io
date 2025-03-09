@@ -69,8 +69,16 @@ I am currently a Ph.D. Candidate in Computer Science focusing on **Reinforcement
         <th>News</th>
     </tr>
     <tr>
+        <td>2025-04-03</td>
+        <td>Holding Masterclass "Can AI Help Us Understand Vulnerabilities? Exploring AI-driven Approaches to Cybersecurity" at the <a href="https://europe.forum-incyber.com/programme-2025/">Forum InCyber Europe</a> in Lille, France.</td>
+    </tr>
+    <tr>
+        <td>2025-03-11</td>
+        <td>Presenting "Discovering Critical Vulnerability Paths with RL Agents: Enhancing Generalization and Scalability" at the <a href="https://superviz.inria.fr/news/">SuperViZ Meeting</a> in Campus Cyber La Defense, Paris, France.</td>
+    </tr>
+    <tr>
         <td>2025-02-15</td>
-        <td>Reviewing manuscripts for the International Joint Conference on Neural Networks (<a href="https://2025.ijcnn.org">IJCNN</a>) 2025.</td>
+        <td>Reviewing manuscripts for the International Joint Conference on Neural Networks (<a href="https://2025.ijcnn.org">IJCNN</a>) 2025, and the 7th IEEE Symposium on Computers & Informatics (<a href="https://www.isci.asia">ISCI</a>) 2025.</td>
     </tr>
     <tr>
         <td>2025-01-13</td>
