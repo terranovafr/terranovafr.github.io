@@ -70,7 +70,7 @@ I am currently a Ph.D. Candidate in Computer Science focusing on **Reinforcement
     </tr>
     <tr>
         <td>2025-04-03</td>
-        <td>Holding Masterclass "Can AI Help Us Understand Vulnerabilities? Exploring AI-driven Approaches to Cybersecurity" at the <a href="https://europe.forum-incyber.com/programme-2025/">Forum InCyber Europe</a> in Lille, France.</td>
+        <td>Holding Masterclass <a href="https://www.youtube.com/watch?v=tbexNO-rT18">"Can AI Help Us Understand Vulnerabilities? Exploring AI-driven Approaches to Cybersecurity"</a> at the <a href="https://europe.forum-incyber.com/programme-2025/">Forum InCyber Europe</a> in Lille, France.</td>
     </tr>
     <tr>
         <td>2025-03-11</td>
