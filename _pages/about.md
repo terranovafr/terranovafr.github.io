@@ -74,7 +74,7 @@ I am currently a Ph.D. Candidate in Computer Science focusing on **Reinforcement
     </tr>
     <tr>
         <td>2025-03-11</td>
-        <td>Presenting "Discovering Critical Vulnerability Paths with RL Agents: Enhancing Generalization and Scalability" at the <a href="https://superviz.inria.fr/news/">SuperViZ Meeting</a> in Campus Cyber La Defense, Paris, France.</td>
+        <td>Presenting Ph.D. project at the <a href="https://superviz.inria.fr/news/">SuperViZ Meeting</a> in Campus Cyber La Defense, Paris, France.</td>
     </tr>
     <tr>
         <td>2025-02-15</td>
