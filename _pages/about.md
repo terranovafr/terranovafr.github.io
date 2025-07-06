@@ -69,6 +69,18 @@ I am currently a Ph.D. Candidate in Computer Science focusing on **Reinforcement
         <th>News</th>
     </tr>
     <tr>
+        <td>2025-09-01</td>
+        <td>Holding Tutorial "Meta-Learning for Reinforcement Learning: Generalizing Agents to Unseen Scenarios" at the <a href="https://easss.upb.ro">European Agent Systems Summer School (EASSS) 2025</a>.</td>
+    </tr>
+    <tr>
+        <td>2025-06-18</td>
+        <td>Jury member for the review of M1 TAL&SC semester projects at <a href="https://idmc.univ-lorraine.fr">IDMC</a>.</td>
+    </tr>
+    <tr>
+        <td>2025-04-09</td>
+        <td>Patent <a href="https://patents.google.com/patent/US20250111507A1/en">"Mobile Device and Computer-Implemented Method for Real-Time Retinal Diagnosis, Data Processing Apparatus, Computer Program, and Computer-Readable Medium,"</a> developed during the internship at the European Space Agency, has been published under both <a href="https://patents.google.com/patent/US20250111507A1/en">US</a> and <a href="https://patents.google.com/patent/EP4535282A1/en">EU</a> patent systems.</td>
+    </tr>
+    <tr>
         <td>2025-04-03</td>
         <td>Holding Masterclass <a href="https://www.youtube.com/watch?v=tbexNO-rT18">"Can AI Help Us Understand Vulnerabilities? Exploring AI-driven Approaches to Cybersecurity"</a> at the <a href="https://europe.forum-incyber.com/programme-2025/">Forum InCyber Europe</a> in Lille, France.</td>
     </tr>
