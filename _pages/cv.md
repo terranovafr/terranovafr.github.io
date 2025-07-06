@@ -17,8 +17,8 @@ Work experience
 ======
 * June 2024 - July 2024 / November 2024 - December 2024: **Visiting Researcher** 
   * University of Waterloo - David Cheriton School of Computer Science 
-  * Project: Multi-Agent Reinforcement Learning for Security Analysis of 5G Networks
-  * Topics: 5G, Cybersecurity, Reinforcement Learning, Deep Learning
+  * Project: Multi-Agent Reinforcement Learning for Secure and Efficient Virtual Machine Placement
+  * Topics: Virtualization, Cybersecurity, Reinforcement Learning, Deep Learning
   * Visiting Supervisors: Noura Limam, Raouf Boutaba
 
 * May 2023 - August 2023: **Master Degree Thesis Researcher**
