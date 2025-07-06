@@ -73,6 +73,10 @@ I am currently a Ph.D. Candidate in Computer Science focusing on **Reinforcement
         <td>Holding Tutorial "Meta-Learning for Reinforcement Learning: Generalizing Agents to Unseen Scenarios" at the <a href="https://easss.upb.ro">European Agent Systems Summer School (EASSS) 2025</a>.</td>
     </tr>
     <tr>
+        <td>2025-06-23</td>
+        <td>Selected as reviewer for the <a href="https://neurips.cc/Conferences/2025/CallForPositionPapers">NeurIPS 2025 Position Paper Track</a>.</td>
+    </tr>
+    <tr>
         <td>2025-06-18</td>
         <td>Jury member for the review of M1 TAL&SC semester projects at <a href="https://idmc.univ-lorraine.fr">IDMC</a>.</td>
     </tr>
