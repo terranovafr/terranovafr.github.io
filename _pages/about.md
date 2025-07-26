@@ -73,8 +73,20 @@ I am currently a Ph.D. Candidate in Computer Science focusing on **Reinforcement
         <td>Holding Tutorial "Meta-Learning for Reinforcement Learning: Generalizing Agents to Unseen Scenarios" at the <a href="https://easss.upb.ro">European Agent Systems Summer School (EASSS) 2025</a>.</td>
     </tr>
     <tr>
+        <td>2025-08-07</td>
+        <td>Participation to the <a href="https://www.oxfordml.school/2025-replearning">Oxford Machine Learning Summer School</a> on Representation Learning and Generative AI.</td>
+    </tr>
+    <tr>
+        <td>2025-07-15</td>
+        <td>Tool <a href="https://github.com/terranovafr/C-CyberBattleSim">Continuous CyberBattleSim</a>, extension of <a href="https://github.com/microsoft/CyberBattleSim">Microsoft CyberBattleSim</a>, released to the public on <a href="https://github.com/terranovafr/C-CyberBattleSim">Github</a> and <a href="https://gitlab.inria.fr/resist/C-CyberBattleSim">Gitlab</a>.</td>
+    </tr>
+    <tr>
+        <td>2025-07-08</td>
+        <td>Paper <a href="https://hal.science/hal-05182437v1">Scalable and Generalizable RL Agents for Attack Path Discovery via Continuous Invariant Spaces</a> accepted by <a href="https://raid2025.github.io">The 28th International Symposium on Research in Attacks, Intrusions and Defenses</a> (RAID 2025).</td>
+    </tr>
+    <tr>
         <td>2025-06-23</td>
-        <td>Selected as reviewer for the <a href="https://neurips.cc/Conferences/2025/CallForPositionPapers">NeurIPS 2025 Position Paper Track</a>.</td>
+        <td>Reviewing for the <a href="https://neurips.cc/Conferences/2025/CallForPositionPapers">NeurIPS 2025 Position Paper Track</a>.</td>
     </tr>
     <tr>
         <td>2025-06-18</td>
@@ -90,7 +102,7 @@ I am currently a Ph.D. Candidate in Computer Science focusing on **Reinforcement
     </tr>
     <tr>
         <td>2025-03-11</td>
-        <td>Presenting Ph.D. project at the <a href="https://superviz.inria.fr/news/">SuperViZ Meeting</a> in Campus Cyber La Defense, Paris, France.</td>
+        <td>Presentation "Discovering Critical Vulnerability Paths with RL Agents: Enhancing Generalization and Scalability" at the <a href="https://superviz.inria.fr/seminars/">SuperViZ Meeting</a> in Campus Cyber La Defense, Paris, France.</td>
     </tr>
     <tr>
         <td>2025-02-15</td>
