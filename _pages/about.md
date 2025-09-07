@@ -69,6 +69,22 @@ I am currently a Ph.D. Candidate in Computer Science focusing on **Reinforcement
         <th>News</th>
     </tr>
     <tr>
+        <td>2025-09-25</td>
+        <td>Participation to the <a href="https://superviz.inria.fr">SuperViZ Plénière</a> at <a href="https://www.laas.fr/fr/">LAAS-CNRS</a> in Toulouse, France.</td>
+    </tr>
+    <tr>
+        <td>2025-09-17</td>
+        <td>Holding Tutorial on <a href="https://deeploria.netlify.app">Meta Reinforcement-Learning</a> within the DeepLorIA network. </td>
+    </tr>  
+    <tr>
+        <td>2025-09-25</td>
+        <td>Participation to the <a href="https://superviz.inria.fr">SuperViZ Plénière</a> at <a href="https://www.laas.fr/fr/">LAAS-CNRS</a> in Toulouse, France.</td>
+    </tr>
+    <tr>
+        <td>2025-09-08</td>
+        <td>Teaching Assistant for the <a href="https://idmc.univ-lorraine.fr">IDMC</a> courses: "Probabilities and Statistics" @ M1TAL, "Project Management Tools" @ M1TAL, and "Introduction to Natural Language Processing" @ M1TAL.</td>
+    </tr>
+    <tr>
         <td>2025-09-01</td>
         <td>Holding Tutorial "Meta-Learning for Reinforcement Learning: Generalizing Agents to Unseen Scenarios" at the <a href="https://easss.upb.ro">European Agent Systems Summer School (EASSS) 2025</a>.</td>
     </tr>
