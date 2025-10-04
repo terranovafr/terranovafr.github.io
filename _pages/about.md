@@ -69,16 +69,24 @@ I am currently a Ph.D. Candidate in Computer Science focusing on **Reinforcement
         <th>News</th>
     </tr>
     <tr>
+        <td>2025-11-05</td>
+        <td>Presentation on <em>"Learning to Predict Cyber Attack Paths with RL Agents"</em> at the <a href="https://project.inria.fr/FranceJapanICST/9th-franco-japanese-cybersecurity-workshop-november-5th-7th-2025/">9th Franco-Japanese Cybersecurity Workshop</a>, Tokyo, Japan.</td>
+    </tr>
+    <tr>
+        <td>2025-10-21</td>
+        <td>Presentation of the paper <a href="https://hal.science/hal-05182437v1"><em>Scalable and Generalizable RL Agents for Attack Path Discovery via Continuous Invariant Spaces</em></a> at the <a href="https://raid2025.github.io">28th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2025)</a>, Gold Coast, Australia.</td>
+    </tr>
+    <tr>
+        <td>2025-10-03</td>
+        <td>Hosting the interactive stand <a href="https://www.instagram.com/reel/DO8uqGEDd0E/">L’IA mène l’offensive</a> during <a href="https://www.echosciences-grandest.fr/uploads/attachment/attached_file/23347673/01-_Programme_-_Nuit_de_la_Science.pdf">Nuit de la Science</a> (Nancy) and <a href="https://www.fetedelascience.fr/quand-l-ia-anticipe-les-hackers">Quand l’IA anticipe les hackers</a> at the <a href="https://www.fetedelascience.fr/">Fête de la Science</a> (Nancy).</td>
+    </tr>
+    <tr>
         <td>2025-09-25</td>
         <td>Participation to the <a href="https://superviz.inria.fr">SuperViZ Plénière</a> at <a href="https://www.laas.fr/fr/">LAAS-CNRS</a> in Toulouse, France.</td>
     </tr>
     <tr>
         <td>2025-09-17</td>
-        <td>Holding Tutorial on <a href="https://deeploria.netlify.app">Meta Reinforcement-Learning</a> within the DeepLorIA network. </td>
-    </tr>  
-    <tr>
-        <td>2025-09-25</td>
-        <td>Participation to the <a href="https://superviz.inria.fr">SuperViZ Plénière</a> at <a href="https://www.laas.fr/fr/">LAAS-CNRS</a> in Toulouse, France.</td>
+        <td>Holding Tutorial on <a href="https://deeploria.netlify.app">Meta Reinforcement-Learning</a> within the DeepLorIA network (<a href="https://www.youtube.com/watch?v=k9VhXqVGkII">video</a>). </td>
     </tr>
     <tr>
         <td>2025-09-08</td>
@@ -95,10 +103,6 @@ I am currently a Ph.D. Candidate in Computer Science focusing on **Reinforcement
     <tr>
         <td>2025-07-15</td>
         <td>Tool <a href="https://github.com/terranovafr/C-CyberBattleSim">Continuous CyberBattleSim</a>, extension of <a href="https://github.com/microsoft/CyberBattleSim">Microsoft CyberBattleSim</a>, released to the public on <a href="https://github.com/terranovafr/C-CyberBattleSim">Github</a> and <a href="https://gitlab.inria.fr/resist/C-CyberBattleSim">Gitlab</a>.</td>
-    </tr>
-    <tr>
-        <td>2025-07-08</td>
-        <td>Paper <a href="https://hal.science/hal-05182437v1">Scalable and Generalizable RL Agents for Attack Path Discovery via Continuous Invariant Spaces</a> accepted by <a href="https://raid2025.github.io">The 28th International Symposium on Research in Attacks, Intrusions and Defenses</a> (RAID 2025).</td>
     </tr>
     <tr>
         <td>2025-06-23</td>
