@@ -69,8 +69,20 @@ I am currently a Ph.D. Candidate in Computer Science focusing on **Reinforcement
         <th>News</th>
     </tr>
     <tr>
+        <td>2025-11-26</td>
+        <td>Presentation <em>"De la sélection de paradigmes à la validation statistique : principes et bonnes pratiques en apprentissage automatique"</em> at the <a href="https://www.loria.fr/event/atelier-du-pole-am2i-mise-en-place-de-lia/">Atelier "Mise en place de l'IA"</a> du Pôle AM2I de l'Université de Lorraine, Nancy, France.</td>
+    </tr>
+    <tr>
+        <td>2025-11-10</td>
+        <td>Starting research internship at the <a href="https://bnn.upc.edu/">Barcelona Neural Networking Center</a> of the Universitat Politècnica de Catalunya, Barcelona, Spain.</td>
+    </tr>
+    <tr>
         <td>2025-11-05</td>
-        <td>Presentation on <em>"Learning to Predict Cyber Attack Paths with RL Agents"</em> at the <a href="https://project.inria.fr/FranceJapanICST/9th-franco-japanese-cybersecurity-workshop-november-5th-7th-2025/">9th Franco-Japanese Cybersecurity Workshop</a>, Tokyo, Japan.</td>
+        <td>Presentation <em>"Learning to Predict Cyber Attack Paths with RL Agents"</em> at the <a href="https://project.inria.fr/FranceJapanICST/9th-franco-japanese-cybersecurity-workshop-november-5th-7th-2025/">9th Franco-Japanese Cybersecurity Workshop</a>, Tokyo, Japan.</td>
+    </tr>
+    <tr>
+        <td>2025-11-04</td>
+        <td>Presentation <em><a href="https://si.u-tokyo.ac.jp/news/2025%e5%b9%b411%e6%9c%884%e6%97%a5-si-%e3%82%bb%e3%83%b3%e3%82%bf%e3%83%bc%e5%8d%94%e5%8a%9b%e3%82%bb%e3%83%9f%e3%83%8a%e3%83%bc-pierre-francois-gimenez-%e6%b0%8f%ef%bc%8cfranco-terranova-%e6%b0%8f/">"Modeling Attacker Behavior with RL Agents to Anticipate Critical Vulnerability Paths"</a></em> at the <a href="https://si.u-tokyo.ac.jp/en/">Security Informatics education and research center - 東京大学</a>, University of Tokyo, Japan.</td>
     </tr>
     <tr>
         <td>2025-10-21</td>

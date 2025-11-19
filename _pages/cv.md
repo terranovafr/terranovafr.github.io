@@ -15,6 +15,12 @@ Education
 
 Work experience
 ======
+* November 2025 - March 2026: **Research Intern** 
+  * Universitat Politècnica de Catalunya - Barcelona Neural Networking Center
+  * Project: GNN Representations for More Scalable and Generalizable DRL on Graph-Based Selection Tasks
+  * Topics: Graph Neural Networks, Reinforcement Learning, Generalization, Scalability
+  * Visiting Supervisor: Albert Cabellos
+
 * June 2024 - July 2024 / November 2024 - December 2024: **Visiting Researcher** 
   * University of Waterloo - David Cheriton School of Computer Science 
   * Project: Multi-Agent Reinforcement Learning for Secure and Efficient Virtual Machine Placement
