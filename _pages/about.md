@@ -69,6 +69,22 @@ I am currently a Ph.D. Candidate in Computer Science focusing on **Reinforcement
         <th>News</th>
     </tr>
     <tr>
+        <td>2025-07-15</td>
+        <td>Tool <i>CVE-LMTune</i>, a tool for tuning LMs for Multi-Taxonomy Vulnerability Classification, released to the public on <a href="https://github.com/terranovafr/CVE-LMTune">Github</a>.</td>
+    </tr>
+    <tr>
+        <td>2026-02-01</td>
+        <td>Paper <a href="https://hal.science/hal-05500820v1">"Multi-Taxonomy Vulnerability Classification with Hierarchically Finetuned Language Models"</a> accepted at the <a href="https://www.dimva.org/dimva2026/">23rd Conference on Detection of Intrusions and Malware & Vulnerability Assessment</a> (DIMVA '26).</td>
+    </tr>
+    <tr>
+        <td>2025-07-15</td>
+        <td>Tool "Continuous CyberBattleSim" accepted for the <a href="https://blackhat.com/asia-26/arsenal/schedule/index.html#continuous-cyberbattlesim-a-more-realistic-simulation-for-ai-driven-attack-path-discovery-49908">Arsenal Presentation</a> at Black Hat Asia 2026.</td>
+    </tr>
+    <tr>
+        <td>2026-01-30</td>
+        <td>Reviewing for the <a href="https://noms2026.ieee-noms.org/">NOMS 2026</a> and <a href="https://attend.ieee.org/wcci-2026/ijcnn-2026-topics/">IJCNN 2026</a> conferences.</td>
+    </tr>
+    <tr>
         <td>2025-11-26</td>
         <td>Presentation <em>"De la sélection de paradigmes à la validation statistique : principes et bonnes pratiques en apprentissage automatique"</em> at the <a href="https://www.loria.fr/event/atelier-du-pole-am2i-mise-en-place-de-lia/">Atelier "Mise en place de l'IA"</a> du Pôle AM2I de l'Université de Lorraine, Nancy, France.</td>
     </tr>
