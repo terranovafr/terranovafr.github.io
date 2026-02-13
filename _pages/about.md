@@ -69,7 +69,7 @@ I am currently a Ph.D. Candidate in Computer Science focusing on **Reinforcement
         <th>News</th>
     </tr>
     <tr>
-        <td>2025-02-06</td>
+        <td>2026-02-06</td>
         <td>Tool <i>CVE-LMTune</i>, a tool for tuning LMs for Multi-Taxonomy Vulnerability Classification, released to the public on <a href="https://github.com/terranovafr/CVE-LMTune">Github</a>.</td>
     </tr>
     <tr>
