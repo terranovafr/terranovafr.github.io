@@ -69,6 +69,18 @@ I am currently a Ph.D. Candidate in Computer Science focusing on **Reinforcement
         <th>News</th>
     </tr>
     <tr>
+        <td>2026-05-01</td>
+        <td>Serving as a reviewer for the <a href="https://neurips.cc/Conferences/2026/">NeurIPS 2026</a> conference.</td>
+    </tr>
+    <tr>
+        <td>2026-04-23</td>
+        <td>Presented the tool "Continuous CyberBattleSim" as an <a href="https://blackhat.com/asia-26/arsenal/schedule/index.html#continuous-cyberbattlesim-a-more-realistic-simulation-for-ai-driven-attack-path-discovery-49908">Arsenal session</a> at Black Hat Asia 2026 in Singapore.</td>
+    </tr>
+    <tr>
+        <td>2026-03-01</td>
+        <td>Teaching Assistant for the Data Science course at <a href="https://idmc.univ-lorraine.fr">IDMC</a>.</td>
+    </tr>
+    <tr>
         <td>2026-02-06</td>
         <td>Tool <i>CVE-LMTune</i>, a tool for tuning LMs for Multi-Taxonomy Vulnerability Classification, released to the public on <a href="https://github.com/terranovafr/CVE-LMTune">Github</a>.</td>
     </tr>
@@ -79,10 +91,6 @@ I am currently a Ph.D. Candidate in Computer Science focusing on **Reinforcement
     <tr>
         <td>2026-01-28</td>
         <td>Paper <a href="https://hal.science/hal-05500820v1">"Multi-Taxonomy Vulnerability Classification with Hierarchically Finetuned Language Models"</a> accepted at the <a href="https://www.dimva.org/dimva2026/">23rd Conference on Detection of Intrusions and Malware & Vulnerability Assessment</a> (DIMVA '26).</td>
-    </tr>
-    <tr>
-        <td>2026-01-22</td>
-        <td>Tool "Continuous CyberBattleSim" accepted for the <a href="https://blackhat.com/asia-26/arsenal/schedule/index.html#continuous-cyberbattlesim-a-more-realistic-simulation-for-ai-driven-attack-path-discovery-49908">Arsenal Presentation</a> at Black Hat Asia 2026.</td>
     </tr>
     <tr>
         <td>2025-11-26</td>
