@@ -82,7 +82,7 @@ I am currently a Ph.D. Candidate in Computer Science focusing on **Reinforcement
     </tr>
     <tr>
         <td>2026-05-06</td>
-        <td>Released the preprint of <em>"Projecting Latent RL Actions: Towards Generalizable and Scalable Graph Combinatorial Optimization"</em>, along with the accompanying <a href="https://github.com/terranovafr/LaGCO-RL">LaGCO-RL</a> open-source library.</td>
+        <td>Released the <a href="https://hal.science/hal-05620445/">preprint</a> of <em>"Projecting Latent RL Actions: Towards Generalizable and Scalable Graph Combinatorial Optimization"</em>, along with the accompanying <a href="https://github.com/terranovafr/LaGCO-RL">LaGCO-RL</a> open-source library.</td>
     </tr>
     <tr>
         <td>2026-05-01</td>
