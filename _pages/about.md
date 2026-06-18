@@ -69,8 +69,24 @@ I am currently a Ph.D. Candidate in Computer Science focusing on **Reinforcement
         <th>News</th>
     </tr>
     <tr>
+        <td>2026-07-01</td>
+        <td>Presented the paper <a href='https://hal.science/hal-05500820v1'>"Multi-Taxonomy Vulnerability Classification with Hierarchically Finetuned Language Models"</a> at the <a href="https://www.dimva.org/dimva2026/">23rd Conference on Detection of Intrusions and Malware &amp; Vulnerability Assessment (DIMVA 2026)</a> in Chania, Greece.</td>
+    </tr>
+    <tr>
+        <td>2026-06-22</td>
+        <td>Delivered the research talk <em>"Learning Generalizable Graph Heuristics via Reinforcement Learning with Applications to Attack Path Discovery"</em> at <a href="https://www.epfl.ch/en/">EPFL</a> (Lausanne, Switzerland) and the INRIA-<a href="https://cispa.de/en">CISPA</a> 2026 Workshop (Saarbrücken, Germany).</td>
+    </tr>
+    <tr>
+        <td>2026-06-08</td>
+        <td>Presented <a href="https://superviz.inria.fr/assets/pdf/plenary_26_06/CVE-LMTune_Framework.pdf">"CVE-LMTune: A Framework for Automated Vulnerability Classification with Language Models"</a> at the <a href="https://superviz.inria.fr/seminars/">SuperviZ Plenary Seminar</a>, Campus Cyber Defense, Paris, France.</td>
+    </tr>
+    <tr>
+        <td>2026-05-06</td>
+        <td>Released the preprint of <em>"Projecting Latent RL Actions: Towards Generalizable and Scalable Graph Combinatorial Optimization"</em>, along with the accompanying <a href="https://github.com/terranovafr/LaGCO-RL">LaGCO-RL</a> open-source library.</td>
+    </tr>
+    <tr>
         <td>2026-05-01</td>
-        <td>Serving as a reviewer for the <a href="https://neurips.cc/Conferences/2026/">NeurIPS 2026</a> conference.</td>
+        <td>Serving as a reviewer for <a href="https://neurips.cc/Conferences/2026/">NeurIPS 2026</a>, the <a href="https://onlinelibrary.wiley.com/journal/10991190">International Journal of Network Management</a>, and <a href="https://www.comsoc.org/publications/journals/ieee-transactions-network-and-service-management">IEEE Transactions on Network and Service Management</a>.</td>
     </tr>
     <tr>
         <td>2026-04-23</td>
@@ -87,10 +103,6 @@ I am currently a Ph.D. Candidate in Computer Science focusing on **Reinforcement
     <tr>
         <td>2026-01-30</td>
         <td>Reviewing for the <a href="https://noms2026.ieee-noms.org/">NOMS 2026</a> and <a href="https://attend.ieee.org/wcci-2026/ijcnn-2026-topics/">IJCNN 2026</a> conferences.</td>
-    </tr>
-    <tr>
-        <td>2026-01-28</td>
-        <td>Paper <a href="https://hal.science/hal-05500820v1">"Multi-Taxonomy Vulnerability Classification with Hierarchically Finetuned Language Models"</a> accepted at the <a href="https://www.dimva.org/dimva2026/">23rd Conference on Detection of Intrusions and Malware & Vulnerability Assessment</a> (DIMVA '26).</td>
     </tr>
     <tr>
         <td>2025-11-26</td>
