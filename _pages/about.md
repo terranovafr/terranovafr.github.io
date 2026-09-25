@@ -69,6 +69,18 @@ I am currently a Ph.D. Candidate in Computer Science focusing on **Reinforcement
         <th>News</th>
     </tr>
     <tr>
+        <td>2026-09-20</td>
+        <td>Paper <a href="https://hal.science/hal-05749810v1">“When Performance Meets Security: Reducing Attack Paths in Virtual Machine Placement via Reinforcement Learning”</a> accepted at the <a href="https://aisec.cc/">AISec – 19th ACM Workshop on Artificial Intelligence and Security</a>.</td>
+    </tr>
+    <tr>
+        <td>2026-08-30</td>
+        <td>Serving as an Area Chair for the <a href="https://neurreps.org/">NeurReps</a> workshop at NeurIPS 2026.</td>
+    </tr>
+    <tr>
+        <td>2026-08-15</td>
+        <td>One-week research visit to <a href="https://dkondo-lab.github.io/">Kondo’s Laboratory at the University of Tokyo</a> for research collaboration.</td>
+    </tr>
+    <tr>
         <td>2026-07-01</td>
         <td>Presented the paper <a href='https://hal.science/hal-05500820v1'>"Multi-Taxonomy Vulnerability Classification with Hierarchically Finetuned Language Models"</a> at the <a href="https://www.dimva.org/dimva2026/">23rd Conference on Detection of Intrusions and Malware &amp; Vulnerability Assessment (DIMVA 2026)</a> in Chania, Greece.</td>
     </tr>
