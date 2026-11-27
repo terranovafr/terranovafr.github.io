@@ -9,12 +9,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D. Student in Computer Science, Université de Lorraine/INRIA, 2026 (expected)
+* Ph.D. Student in Computer Science, Université de Lorraine/INRIA, 2026
 * M.D. in Artificial Intelligence and Data Engineering, University of Pisa, 2023, (110/110) cum laude
 * B.D. in Computer Engineering, University of Pisa, 2021, (110/110) cum laude
 
 Work experience
 ======
+* November 2026 - Current: **Postdoctoral Researcher** 
+  * UC Santa Barbara, Seclab 
+  * Supervisors: Giovanni Vigna, Christopher Kruegel
+
 * November 2025 - March 2026: **Research Intern** 
   * Universitat Politècnica de Catalunya - Barcelona Neural Networking Center
   * Project: GNN Representations for More Scalable and Generalizable DRL on Graph-Based Selection Tasks

@@ -69,10 +69,22 @@ I am currently a Ph.D. Candidate in Computer Science focusing on **Reinforcement
         <th>News</th>
     </tr>
     <tr>
-        <td>2026-09-20</td>
-        <td>Paper <a href="https://hal.science/hal-05749810v1">“When Performance Meets Security: Reducing Attack Paths in Virtual Machine Placement via Reinforcement Learning”</a> accepted at the <a href="https://aisec.cc/">AISec – 19th ACM Workshop on Artificial Intelligence and Security</a>.</td>
+        <td>2026-11-23</td>
+        <td>Started a postdoctoral position at <a href="https://seclab.cs.ucsb.edu">SecLab</a>, University of California, Santa Barbara (UCSB)!</td>
     </tr>
     <tr>
+        <td>2026-11-21</td>
+        <td>Delivered a tutorial titled <a href="https://victor.darvariu.me/log2026.html">"Reinforcement Learning for Graph Combinatorial Optimization"</a> at <a href="https://logconference.org/schedule-tutorials/">Learning on Graphs (LoG) 2026</a>.</td>
+    </tr>
+    <tr>
+        <td>2026-11-15</td>
+        <td>Presented our paper, <a href="https://hal.science/hal-05749810v1">"When Performance Meets Security: Reducing Attack Paths in Virtual Machine Placement via Reinforcement Learning"</a>, at the <a href="https://aisec.cc/">19th ACM Workshop on Artificial Intelligence and Security (AISec)</a> in The Hague, Netherlands.</td>
+    </tr>
+    <tr>
+        <td>2026-10-09</td>
+        <td><strong>🎓 Completed my Ph.D.!</strong> Earned my doctoral degree from Université de Lorraine. <a href="https://theses.hal.science/tel-05797006/file/DDOC_T_2026_0116_TERRANOVA.pdf">Read my thesis</a>.</td>
+    </tr>
+        <tr>
         <td>2026-08-30</td>
         <td>Serving as an Area Chair for the <a href="https://neurreps.org/">NeurReps</a> workshop at NeurIPS 2026.</td>
     </tr>
@@ -115,6 +127,15 @@ I am currently a Ph.D. Candidate in Computer Science focusing on **Reinforcement
     <tr>
         <td>2026-01-30</td>
         <td>Reviewing for the <a href="https://noms2026.ieee-noms.org/">NOMS 2026</a> and <a href="https://attend.ieee.org/wcci-2026/ijcnn-2026-topics/">IJCNN 2026</a> conferences.</td>
+    </tr>
+</table>
+<h2><p align="center">- 2025 -</p></h2>
+
+
+<table>
+    <tr>
+        <th style="min-width: 140px;">Date</th>
+        <th>News</th>
     </tr>
     <tr>
         <td>2025-11-26</td>
