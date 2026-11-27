@@ -53,10 +53,10 @@ redirect_from:
 </div>
 <!--Intro start-->
 
-I am currently a Ph.D. Candidate in Computer Science focusing on **Reinforcement Learning for Cyber-Attack Paths Prediction** based at the _INRIA_ Center of the _Université de Lorraine_.
+I am currently a postdoctoral researcher at SecLab, UC Santa Barbara (UCSB), where my research lies at the intersection of artificial intelligence and cybersecurity. I received my Ph.D. in Computer Science from the Université de Lorraine and Inria, France.
 
 <p align="center">
-<a href="https://theses.fr/s371241" style="background-color: #007BFF; color: white; padding: 10px 10px; text-align: center; text-decoration: none; display: inline-block; margin: 2px 2px; cursor: pointer;">Read about my thesis</a>
+<a href="https://theses.fr/s371241" style="background-color: #007BFF; color: white; padding: 10px 10px; text-align: center; text-decoration: none; display: inline-block; margin: 2px 2px; cursor: pointer;">Read my Ph.D. thesis</a>
 </p>
 
 
