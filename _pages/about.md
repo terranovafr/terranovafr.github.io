@@ -53,11 +53,11 @@ redirect_from:
 </div>
 <!--Intro start-->
 
-I am currently a postdoc at SecLab, UCSB, working at the intersection of AI and cybersecurity.
+I am currently a postdoc at SecLab, UCSB, working at the intersection of AI and cybersecurity. <br> 
 I received my Ph.D. in Computer Science from the Université de Lorraine and Inria, France.
 
 <p align="center">
-<a href="https://theses.fr/s371241" style="background-color: #007BFF; color: white; padding: 10px 10px; text-align: center; text-decoration: none; display: inline-block; margin: 2px 2px; cursor: pointer;">Read my Ph.D. thesis</a>
+<a href="https://theses.hal.science/tel-05797006/file/DDOC_T_2026_0116_TERRANOVA.pdf" style="background-color: #007BFF; color: white; padding: 10px 10px; text-align: center; text-decoration: none; display: inline-block; margin: 2px 2px; cursor: pointer;">Read my Ph.D. thesis</a>
 </p>
 
 
