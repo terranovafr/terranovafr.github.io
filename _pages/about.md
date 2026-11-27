@@ -53,8 +53,7 @@ redirect_from:
 </div>
 <!--Intro start-->
 
-I am currently a postdoc at SecLab, UCSB, working at the intersection of AI and cybersecurity. 
-
+I am currently a postdoc at SecLab, UCSB, working at the intersection of AI and cybersecurity.
 I received my Ph.D. in Computer Science from the Université de Lorraine and Inria, France.
 
 <p align="center">
